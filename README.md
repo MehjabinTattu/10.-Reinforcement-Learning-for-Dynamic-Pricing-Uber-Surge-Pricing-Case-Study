@@ -1,9 +1,3 @@
-
----
-
-## 🚗 Q-Learning Surge Pricing Model 
-
-```markdown
 # 🚗 Q-Learning Surge Pricing Model
 
 ## 🧠 Objective
